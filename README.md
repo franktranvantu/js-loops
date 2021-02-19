@@ -1,1 +1,1 @@
-Use `do...while` to create a loop that executes code until the test condition evaluates to false.
+The `for` loop is a more compact variation of the while loop, with similar parts, and it's useful when you know how many times you want to repeat an action.
