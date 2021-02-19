@@ -3,7 +3,7 @@ function getRandomNumber(upper) {
 }
 
 let counter = 0;
-do {
+while (counter < 10) {
   console.log(`The random number is ${getRandomNumber(10)}`);
   counter++;
-} while (counter < 10)
+}
