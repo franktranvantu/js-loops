@@ -1,0 +1,1 @@
+This section covers one way to prevent duplicating code in your program with a loop and a function.

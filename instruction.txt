@@ -1,1 +1,0 @@
-In this challenge, you will use a loop to reduce the repetition of code in a program.
