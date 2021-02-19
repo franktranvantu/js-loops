@@ -1,1 +1,0 @@
-Use a `for` loop to build a string holding HTML, then display it on a web page.
